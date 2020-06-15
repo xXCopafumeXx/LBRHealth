@@ -1,7 +1,0 @@
-name: LBRHealth
-main: ru.lbrhealth.xxcopafumexx.main.Main
-version: 1.0
-commands:
-    LBRHealth:
-        description: Manage plugin LBRHealth
-        aliases: [lb]
